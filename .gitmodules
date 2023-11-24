@@ -1,0 +1,3 @@
+[submodule "Whisper-ChatGPT-Audio"]
+	path = Whisper-ChatGPT-Audio
+	url = https://github.com/stanghong/Whisper-ChatGPT-Audio.git
