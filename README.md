@@ -25,6 +25,7 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
 - *NLP*
   - *SMA0402C*
     - **Evidencia 01: ChatGPT API's** Favor de revisar el archivo **NLP/whisper_summarize.py**
+    - **Evidencia 02: Resumen ChatGPT API's** Favor de revisar el archivo **NLP/API's_NLP.pdf**
 - *Estadística Avanzada*
   - *SMA0101C*
     - **Actividad 04: Regresión Poisson**
