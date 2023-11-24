@@ -1,6 +1,6 @@
 # TC3007C.501-Portafolio-de-Implementacion-A01720253
 
-En este repositorio se encuentran las entregas de portafolio de análisis del curso TC3007C
+En este repositorio se encuentran las entregas de portafolio de implementacion del curso TC3007C
 **Nombre: Rodolfo Sandoval Schipper**
 **Matrícula: A01720253**
 
