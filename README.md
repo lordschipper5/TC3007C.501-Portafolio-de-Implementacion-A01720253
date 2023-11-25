@@ -34,7 +34,7 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
     - **Actividad 07: Introducción a series de tiempo**
     - **Actividad 08: Series de tiempo no estacionarias**
 - *Cloud Computing*
- - **CloudMigration**
+ - **Cloud Migration**: CloudMigraion.pdf
 
 ## Cambios solicitados y respuestas
 
