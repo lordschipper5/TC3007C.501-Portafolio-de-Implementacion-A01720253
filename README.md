@@ -22,7 +22,7 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
 
 - *Deep Learning*
   - *SMA0401C*
-    - **Evidencia 01: Implementación de un modelo de Deep Learning** Favor de revisar el archivo **Final/DeepLearning/Implementacion_de_un_modelo_de_Deep_Learning.pdf/.py**
+    - **Evidencia 01: Implementación de un modelo de Deep Learning** Favor de revisar el archivo **Deep Learning/Implementacion_de_un_modelo_de_Deep_Learning.pdf/.py**
 - *NLP*
   - *SMA0402C*
     - **Evidencia 01: ChatGPT API's** Favor de revisar el archivo **NLP/whisper_summarize.py**
