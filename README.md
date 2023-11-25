@@ -14,6 +14,7 @@ La carpeta raíz de este repositorio contiene los siguientes archivos y carpetas
   - NLP: SMA0402C.
   - Estadistica: SMA0101C.
   - Deep Learning: SMA0401C.
+  - Cloud Computing
 
 ## Archivos para revisión
 
@@ -32,6 +33,8 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
     - **Actividad 05: Regresión logística** 
     - **Actividad 07: Introducción a series de tiempo**
     - **Actividad 08: Series de tiempo no estacionarias**
+- *Cloud Computing*
+ - **CloudMigration**
 
 ## Cambios solicitados y respuestas
 
